@@ -1,0 +1,38 @@
+[
+    {
+        "nom": "PC-salle 1",
+        "type": "ordinateur",
+        "ip": "192.168.1.10",
+        "masque": "255.255.255.0"
+    },
+    {
+        "nom": "PC-salle 2",
+        "type": "ordinateur",
+        "ip": "192.168.1.11",
+        "masque": "255.255.255.0"
+    },
+    {
+        "nom": "Printer",
+        "type": "imprimante",
+        "ip": "192.168.1.20",
+        "masque": "255.255.255.0"
+    },
+    {
+        "nom": "PC-Bureau1",
+        "type": "ordinateur",
+        "ip": "192.168.2.10",
+        "masque": "255.255.255.0"
+    },
+    {
+        "nom": "PC-Bureau2",
+        "type": "ordinateur",
+        "ip": "192.168.2.11",
+        "masque": "255.255.255.0"
+    },
+    {
+        "nom": "server-1",
+        "type": "serveur",
+        "ip": "192.168.2.20",
+        "masque": "255.255.255.0"
+    }
+]
